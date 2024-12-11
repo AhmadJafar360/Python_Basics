@@ -1,0 +1,13 @@
+===== Classes =====
+Numbers
+String
+Boolean
+___
+List
+Dictionaries
+
+===== Constructors =====
+Question
+Person
+    - name
+    - talk()
